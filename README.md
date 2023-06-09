@@ -1,4 +1,4 @@
-Am John Mbwambo 
+Hi, Am John Mbwambo 
 Electronics Engineer | Hardware Enthusiast | Open Source Advocate
 🔌 Passionate about designing innovative electronic systems and solving complex hardware challenges.
 💡 Strong expertise in circuit design, PCB layout, and prototyping for various applications, including embedded systems, IoT, and consumer electronics.
